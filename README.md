@@ -112,7 +112,8 @@ python3 .agents/skills/suicide-ideation-markers/scripts/detect_si_markers.py <tr
 - Packages: `openai`, `subprocess`, `json`, `re`
 
 ## Video demonstration
-[INSERT YOUR VIDEO LINK HERE AFTER RECORDING]
+
+https://youtu.be/LWwz_ZKzaBE
 
 ---
 

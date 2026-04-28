@@ -1,0 +1,9 @@
+# Test files
+test_transcript.txt
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
